@@ -8,7 +8,7 @@ A simple Hearthstone Deck Tracker plugin that exports current arena run and over
   - Best Run
   - Total Runs
   - Wins/Losses
-  - Winrate
+  - Win Rate
 
 # How To Install
 
