@@ -26,7 +26,7 @@ A simple Hearthstone Deck Tracker plugin that exports current arena run and over
 
 **4.** Set whether you want new runs to appear at the top or bottom of your recent runs list.
 
-**5.** Setup the sources in your favorite streaming software like OBS.
+**5.** Setup the sources in your favorite streaming software like OBS. I suggest you choose a [monospaced font](https://en.wikipedia.org/wiki/Monospaced_font) when you setup your text sources. This keeps everything aligned properly.
 
 **6.** Profit!
 
