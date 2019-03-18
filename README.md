@@ -2,7 +2,7 @@
 A simple Hearthstone Deck Tracker plugin that exports current arena run and overall arena stats to text files for display during streaming.  Features include:
 
 - Current deck stats
-- List of recent arena runs (with sort options)
+- Running list of recent runs (added to as runs are completed, sort options in settings)
 - Advanced stats (current class and all classes)
   - Average
   - Best Run
