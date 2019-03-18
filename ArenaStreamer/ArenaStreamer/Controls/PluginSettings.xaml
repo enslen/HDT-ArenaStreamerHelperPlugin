@@ -1,0 +1,29 @@
+﻿<UserControl x:Class="ASH.Controls.PluginSettings"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ASH"
+             mc:Ignorable="d" 
+             d:DesignHeight="400" d:DesignWidth="350">
+    <Grid>
+        <CheckBox x:Name="checkBox_ActiveDeck" Content="Enable Active Deck" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Checked="checkBox_ActiveDeck_Checked" Unchecked="checkBox_ActiveDeck_Unchecked"/>
+        <CheckBox x:Name="checkBox_ArenaRuns" Content="Enable Arena Runs" HorizontalAlignment="Left" Margin="10,72,0,0" VerticalAlignment="Top" Checked="checkBox_ArenaRuns_Checked" Unchecked="checkBox_ArenaRuns_Unchecked"/>
+        <TextBox x:Name="textBox_ActiveDeckFile" HorizontalAlignment="Left" Height="23" Margin="10,37,0,0" VerticalAlignment="Top" Width="232" IsReadOnly="True"/>
+        <TextBox x:Name="textBox_ArenaRunsFile" HorizontalAlignment="Left" Height="23" Margin="10,97,0,0" VerticalAlignment="Top" Width="232" IsReadOnly="True"/>
+        <Button x:Name="buttonBrowse_ActiveDeck" Content="Browse" HorizontalAlignment="Left" Margin="254,37,0,0" VerticalAlignment="Top" Width="75" Click="buttonBrowse_ActiveDeck_Click"/>
+        <Button x:Name="buttonBrowse_ArenaRuns" Content="Browse" HorizontalAlignment="Left" Margin="254,97,0,0" VerticalAlignment="Top" Width="76" Click="buttonBrowse_ArenaRuns_Click"/>
+        <TextBox x:Name="textBox_MaxRuns" HorizontalAlignment="Left" Height="23" Margin="77,136,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="50" TextChanged="textBox_MaxRuns_TextChanged"/>
+        <Label x:Name="label_MaxRuns" Content="Max Runs" HorizontalAlignment="Left" Margin="10,133,0,0" VerticalAlignment="Top"/>
+        <GroupBox x:Name="groupBox" Header="Run Ordering" HorizontalAlignment="Left" Margin="10,174,0,0" VerticalAlignment="Top" Height="116" Width="248">
+            <Grid HorizontalAlignment="Left" Height="96" Margin="0,0,-2,-2" VerticalAlignment="Top" Width="238">
+                <RadioButton x:Name="radioButton_Ascending" Content="Ascending (New Runs At Bottom)" Margin="10,16,2,0" VerticalAlignment="Top" Height="20" RenderTransformOrigin="0.113,-0.696" Checked="radioButton_Ascending_Checked"/>
+                <RadioButton x:Name="radioButton_Descending" Content="Descending (Old Runs At Bottom)" HorizontalAlignment="Left" Margin="10,49,0,0" VerticalAlignment="Top" Checked="radioButton_Descending_Checked" Height="20"/>
+            </Grid>
+        </GroupBox>
+        <CheckBox x:Name="checkBox_AdvancedStats" Content="Enable Advanced Stats" HorizontalAlignment="Left" Margin="10,314,0,0" VerticalAlignment="Top" Checked="checkBox_AdvancedStats_Checked" Unchecked="checkBox_AdvancedStats_Unchecked"/>
+        <TextBox x:Name="textBox_AdvancedStatsFolder" HorizontalAlignment="Left" Height="23" Margin="10,340,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="232" IsReadOnly="True"/>
+        <Button x:Name="buttonBrowse_AdvancedStats" Content="Browse" HorizontalAlignment="Left" Margin="254,340,0,0" VerticalAlignment="Top" Width="75" Click="buttonBrowse_AdvancedStats_Click"/>
+
+    </Grid>
+</UserControl>
