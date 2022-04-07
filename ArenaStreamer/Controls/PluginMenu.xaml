@@ -1,0 +1,27 @@
+﻿<MenuItem x:Class="ASH.Controls.PluginMenu"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ASH.Controls"
+             mc:Ignorable="d" 
+             Header="ARENA HELPER">
+    <MenuItem.Resources>
+        <ResourceDictionary>
+            <!-- Key by Ema Dimitrova from the Noun Project -->
+            <Canvas x:Key="key-icon" Clip="M 72,72 L 744,72 744,984 72,984 72,72 Z">
+                <Path Fill="{StaticResource TextBrush}" RenderTransform="6.72,0,0,6.72,71.9997,108"
+                    Data="F 1 M 91.246,44.999 L 81.826,44.999 46.669,44.999 C 44.403,35.409 35.778,28.249 25.505,28.249 13.511,28.249 3.754,38.006 3.754,49.999 3.754,61.992 13.511,71.75 25.505,71.75 35.777,71.75 44.403,64.589 46.669,54.999 L 62.794,54.999 62.794,65.138 C 62.794,67.9 65.032,70.138 67.794,70.138 70.556,70.138 72.794,67.9 72.794,65.138 L 72.794,54.999 76.825,54.999 76.825,65.138 C 76.825,67.9 79.063,70.138 81.825,70.138 84.587,70.138 86.825,67.9 86.825,65.138 L 86.825,54.999 91.245,54.999 C 94.007,54.999 96.245,52.761 96.245,49.999 96.246,47.238 94.008,44.999 91.246,44.999 Z M 25.506,61.75 C 19.027,61.75 13.755,56.479 13.755,49.999 13.755,43.52 19.026,38.249 25.506,38.249 31.985,38.249 37.256,43.52 37.256,49.999 37.256,56.479 31.985,61.75 25.506,61.75 Z" />
+            </Canvas>
+        </ResourceDictionary>
+    </MenuItem.Resources>
+    <MenuItem.Icon>
+        <Rectangle Width="16" Height="16" Margin="3,0,0,0">
+            <Rectangle.Fill>
+                <VisualBrush Visual="{StaticResource key-icon}" Stretch="Uniform" />
+            </Rectangle.Fill>
+        </Rectangle>
+    </MenuItem.Icon>
+    <!-- SubMenus -->
+    <MenuItem Header="Settings"  Click="MenuItem_Settings_Click"/>
+</MenuItem>

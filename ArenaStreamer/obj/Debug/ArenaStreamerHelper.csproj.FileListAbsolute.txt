@@ -1,0 +1,29 @@
+D:\Hearthstone\HDT-ArenaStreamer\ArenaStreamer\ArenaStreamer\bin\Debug\ArenaStreamerHelper.dll
+D:\Hearthstone\HDT-ArenaStreamer\ArenaStreamer\ArenaStreamer\bin\Debug\ArenaStreamerHelper.pdb
+D:\Hearthstone\HDT-ArenaStreamer\ArenaStreamer\ArenaStreamer\bin\Debug\Hearthstone Deck Tracker.exe
+D:\Hearthstone\HDT-ArenaStreamer\ArenaStreamer\ArenaStreamer\bin\Debug\MahApps.Metro.dll
+D:\Hearthstone\HDT-ArenaStreamer\ArenaStreamer\ArenaStreamer\bin\Debug\System.Windows.Interactivity.dll
+D:\Hearthstone\HDT-ArenaStreamer\ArenaStreamer\ArenaStreamer\bin\Debug\HearthMirror.dll
+D:\Hearthstone\HDT-ArenaStreamer\ArenaStreamer\ArenaStreamer\bin\Debug\HSReplay.dll
+D:\Hearthstone\HDT-ArenaStreamer\ArenaStreamer\ArenaStreamer\bin\Debug\LiveCharts.dll
+D:\Hearthstone\HDT-ArenaStreamer\ArenaStreamer\ArenaStreamer\bin\Debug\LiveCharts.Wpf.dll
+D:\Hearthstone\HDT-ArenaStreamer\ArenaStreamer\ArenaStreamer\bin\Debug\Newtonsoft.Json.dll
+D:\Hearthstone\HDT-ArenaStreamer\ArenaStreamer\ArenaStreamer\bin\Debug\BobsBuddy.dll
+D:\Hearthstone\HDT-ArenaStreamer\ArenaStreamer\ArenaStreamer\bin\Debug\SharpRaven.dll
+D:\Hearthstone\HDT-ArenaStreamer\ArenaStreamer\ArenaStreamer\bin\Debug\HearthWatcher.dll
+D:\Hearthstone\HDT-ArenaStreamer\ArenaStreamer\ArenaStreamer\bin\Debug\HtmlAgilityPack.dll
+D:\Hearthstone\HDT-ArenaStreamer\ArenaStreamer\ArenaStreamer\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+D:\Hearthstone\HDT-ArenaStreamer\ArenaStreamer\ArenaStreamer\bin\Debug\WPFLocalizeExtension.dll
+D:\Hearthstone\HDT-ArenaStreamer\ArenaStreamer\ArenaStreamer\bin\Debug\ControlzEx.dll
+D:\Hearthstone\HDT-ArenaStreamer\ArenaStreamer\ArenaStreamer\bin\Debug\XAMLMarkupExtensions.dll
+D:\Hearthstone\HDT-ArenaStreamer\ArenaStreamer\ArenaStreamer\bin\Debug\Hearthstone Deck Tracker.exe.config
+D:\Hearthstone\HDT-ArenaStreamer\ArenaStreamer\ArenaStreamer\bin\Debug\HearthWatcher.pdb
+D:\Hearthstone\HDT-ArenaStreamer\ArenaStreamer\ArenaStreamer\obj\Debug\Controls\PluginMenu.g.cs
+D:\Hearthstone\HDT-ArenaStreamer\ArenaStreamer\ArenaStreamer\obj\Debug\Controls\PluginSettings.g.cs
+D:\Hearthstone\HDT-ArenaStreamer\ArenaStreamer\ArenaStreamer\obj\Debug\ArenaStreamerHelper_MarkupCompile.cache
+D:\Hearthstone\HDT-ArenaStreamer\ArenaStreamer\ArenaStreamer\obj\Debug\ArenaStreamerHelper_MarkupCompile.lref
+D:\Hearthstone\HDT-ArenaStreamer\ArenaStreamer\ArenaStreamer\obj\Debug\Controls\PluginMenu.baml
+D:\Hearthstone\HDT-ArenaStreamer\ArenaStreamer\ArenaStreamer\obj\Debug\Controls\PluginSettings.baml
+D:\Hearthstone\HDT-ArenaStreamer\ArenaStreamer\ArenaStreamer\obj\Debug\ArenaStreamerHelper.g.resources
+D:\Hearthstone\HDT-ArenaStreamer\ArenaStreamer\ArenaStreamer\obj\Debug\ArenaStreamerHelper.dll
+D:\Hearthstone\HDT-ArenaStreamer\ArenaStreamer\ArenaStreamer\obj\Debug\ArenaStreamerHelper.pdb
